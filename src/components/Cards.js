@@ -11,36 +11,36 @@ function Cards() {
                     <div className="cards__wrapper">
                         <ul className="cards__items">
                             <CardItem 
-                            src="img/Dog1.jpeg"
-                            text="Snorkel with sea turtles in the beautiful clear waters of Maunalua Bay"
+                            src="images/Dog1.jpeg"
+                            text="Meet Rosie! Rosie is a beautiful, sweet pit bull. She is now about 2 yrs old, about 65 pounds! She is great with people, but can be picky with her dog friends."
                             label='Rosie'
-                            path='/locations/34'
+                            path='/dogs/34'
                             />
                             <CardItem 
-                            src="images/img-3.jpg"
-                            text="Cuddle with Molly, Toph, and a few chickens at Dane's Farm"
+                            src="images/Dog2.jpeg"
+                            text="Meet Archie! He's 5 years old, a golden retriever, and is about 85 pounds. He may seem shy at first, but he warms up quickly and is a great companion."
                             label='Archie'
-                            path='/locations/44'
+                            path='/dogs/44'
                             />
                         </ul>
                         <ul className="cards__items">
                             <CardItem 
-                            src="images/img-5.jpg"
-                            text="Terrier, American Staffordshire / Mix"
+                            src="images/Dog3.jpeg"
+                            text="Meet Luna! She is a lovely, friendly, 5 month old, 64 pounds, Husky mix. Luna is full of typical puppy energy, but is very intelligent and trainable, and loves to lay at your feet in between playtimes."
                             label='Luna'
-                            path='/locations/46'
+                            path='/dogs/46'
                             />
                             <CardItem 
-                            src="images/img-2.jpg"
-                            text="Experience Tokyo's unlimited choice of shopping, entertainment, culture, and dining"
+                            src="images/Dog4.jpeg"
+                            text="Meet Robo! He's two years old and a Lab/Cattle mix. This smart boy is house trained and graduated from obedience school with flying colors. He knows his commands, has good recalls and is food motivated."
                             label='Robo'
-                            path='/locations/43'
+                            path='/dogs/43'
                             />
                             <CardItem 
-                            src="images/img-4.jpg"
-                            text="Take a stroll through the Nation's Capital on the Fourth of July"
+                            src="images/Dog5.jpeg"
+                            text="Meet Mya! She's an Australian Shepherd mix and weighs about 44 pounds. This shy, sweet girl loves her me time and enjoys spending time in her crate, but when ready for your attention she's happy to spend time with you!"
                             label='Mya'
-                            path='/locations/45'
+                            path='/dogs/45'
                             />
                         </ul>
                     </div>
