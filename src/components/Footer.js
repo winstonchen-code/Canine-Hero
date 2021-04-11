@@ -8,7 +8,7 @@ function Footer() {
         <div className='footer-container'>
             <section className="footer-subscription">
                 <p className="footer-subscription-heading">
-                    Join the Adoption newsletter to view all new pets 
+                    Join the adoption newsletter to view all new pets! 
                 </p>
                 <p className="footer-subscription-text">
                     You can unsubscribe at any time.
@@ -33,19 +33,12 @@ function Footer() {
                     <div class='footer-link-items'>
                         <h2>Contact Us</h2>
                         <Link to='/'>Contact</Link>
-                        <Link to='/'>Support</Link>
-                        <Link to='/'>Destinations</Link>
+                        <Link to='/'>Donate</Link>
+                        <Link to='/'>Volunteer</Link>
                         <Link to='/'>Sponsorships</Link>
                     </div>
                     </div>
                     <div className='footer-link-wrapper'>
-                    <div class='footer-link-items'>
-                        <h2>Videos</h2>
-                        <Link to='/'>Submit Video</Link>
-                        <Link to='/'>Ambassadors</Link>
-                        <Link to='/'>Agency</Link>
-                        <Link to='/'>Influencer</Link>
-                    </div>
                     <div class='footer-link-items'>
                         <h2>Social Media</h2>
                         <Link to='/'>Instagram</Link>
@@ -59,10 +52,10 @@ function Footer() {
                 <div class='social-media-wrap'>
                     <div class='footer-logo'>
                         <Link to='/' className='social-logo'>
-                            Paws
+                            Canine Hero
                         </Link>
                     </div>
-                    <small class='website-rights'> Paw  © 2020</small>
+                    <small class='website-rights'> Canine Hero © 2020</small>
                     <div class='social-icons'>
                         <Link
                         class='social-icon-link facebook'
