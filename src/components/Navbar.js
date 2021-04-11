@@ -35,11 +35,7 @@ function Navbar() {
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
                     </div>
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-                        <li className='nav-item'>
-                            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
-                                Home
-                            </Link>
-                        </li>
+    
                         <li className='nav-item'>
                             <Link to='/Find-A-Pet' className='nav-links' onClick={closeMobileMenu}>
                                 Find a Pet 
@@ -51,12 +47,17 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/Sign-Up' className='nav-links-mobile' onClick={closeMobileMenu}>
-                                Sign Up 
+                            <Link to='/Sign-Up' className='nav-links' onClick={closeMobileMenu}>
+                                Sign Up
+                            </Link>
+                        </li>
+                        <li className='nav-item'>
+                            <Link to='/Log-In' className='nav-links-mobile' onClick={closeMobileMenu}>
+                                Log In 
                             </Link>
                         </li>
                     </ul>
-                    {button && <Button buttonStyle='btn--outline'>Sign Up</Button>}
+                    {button && <Button buttonStyle='btn--outline'>Log In</Button>}
                 </div>
             </nav>
         </>
