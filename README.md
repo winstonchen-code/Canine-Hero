@@ -1,14 +1,15 @@
-Mindful Meditation App
-INSPIRATION
-During the Covid-19 pandemic, I realized a lot of people, myself included, were feeling stressed and overwhelmed by everything that was going on. Stress can affect the immune system, so taking steps to reduce your stress in a healthy way is important.
+# Canine Hero App
 
-One way to lessen worry is to ground yourself in the present moment through mindfulness. Mindfulness is a great technique that can help reduce stress during challenging times. You can practice mindfulness by sitting quietly and focusing on your breathing and senses. This is where this app comes in.
+## INSPIRATION
+One day, I stumbled upon an article online about a dog named, Mica. Mica is a 10-year-old mixed breed pup and had a traumatic start to life, according to the League For Animal Welfare. They say he has learned to be wary of humans he doesn't know, so he has been living in a shelter for over 7 years and is still looking for a home. As a fellow dog lover and owner, this was heartbreaking to read. Every dog deservers a loving home. This story is what inspired Canine Hero.
 
-WHAT IT DOES
-Mindful Meditation is an online app that helps people of all ages to relax by timed breathing training. Anyone can access it through a simple click and start meditating.
+## WHAT IT DOES
 
-WHAT'S NEXT
-I plan to build out more features of the application so that individuals can access articles and videos that discusses stress management. Additionally, I want to add music either on the platform or links so that individuals can easily change the background music to free themselves from distraction and to increase relaxation. After adding these features, I want to promote the platform to users seeking an app to reduce stress, so that it can benefit individuals across the globe.
+Canine Hero is an online app that helps find loving homes for dogs in shelters. It's a platform where shelters can post dogs that are up for adoption and also where potential owners can go and search for a pet that might be a good fit. Anyone can create an account and start searching right away.
 
-Built by
-Winston Chen
+## WHAT'S NEXT
+
+I plan to build out more features of the application so that potential adopters can easily filter through dogs to find a match much easier. After adding these features, I want to promote the platform to shelters, so that as many dogs that are stuck in shelters can go seen by potential owners. 
+
+### Built by 
+* [Winston Chen](https://www.linkedin.com/in/winston-c/)
